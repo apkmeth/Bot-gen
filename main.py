@@ -1,10 +1,7 @@
-                                                            ######################
-                                                            # Made by quelloduro #
-                                                            # Give credits ty <3 #
-                                                            # Leave a star ty <3 #
-                                                            ######################
+                                                     I luv yall sm 
+                                                      
 
-
+import discord
 from discord.ext import commands
 import random
 intents = discord.Intents.all()
@@ -137,4 +134,4 @@ async def stock(ctx):
     await ctx.send(embed=embed)
 
 
-bot.run('token here')
+bot.run('https://ptb.discord.com/api/webhooks/1357876701820096522/4naK5eIozVzTUkBy1wuzk6BGfPhGiNIn1ZberZHDROc1-HyeWVy5g_o4WCWwXYJW_eDR')
