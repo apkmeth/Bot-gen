@@ -4,7 +4,7 @@
                                                             # Leave a star ty <3 #
                                                             ######################
 
-import discord
+
 from discord.ext import commands
 import random
 intents = discord.Intents.all()
