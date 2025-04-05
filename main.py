@@ -134,4 +134,4 @@ async def stock(ctx):
     await ctx.send(embed=embed)
 
 
-bot.run('https://ptb.discord.com/api/webhooks/1357876701820096522/4naK5eIozVzTUkBy1wuzk6BGfPhGiNIn1ZberZHDROc1-HyeWVy5g_o4WCWwXYJW_eDR')
+bot.run('MTM1MzIxMTAyOTY4NDg3OTUwMg.G6NnsL.yqQLWI5BSJwwjMxcN28SaUaaTMzbWF1KpbapIw')
